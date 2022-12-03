@@ -1,4 +1,4 @@
-## Darba veikšana
+   ## Darba veikšana
 1) Nokopēt šo repozitoriju savā GitHub kontā.
 2) Noklonēt lokāli PyCharm vidē.
 3) Izveidot jaunu zaru ar nosaukumu `2022.11.21`.
